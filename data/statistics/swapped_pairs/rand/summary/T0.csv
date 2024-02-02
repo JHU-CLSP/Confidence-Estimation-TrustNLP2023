@@ -1,0 +1,2 @@
+Dataset,OIP Swapped Pairs,T0 Prompt Swapped Pairs,Paraphrase Swapped Pairs,OIP Swapped Pairs (1/dataset_size),T0 Prompt Swapped Pairs (1/dataset_size),Paraphrase Swapped Pairs (1/dataset_size),OIP Swapped Pairs (1/(dataset_size^2)),T0 Prompt Swapped Pairs (1/(dataset_size^2)),Paraphrase Swapped Pairs (1/(dataset_size^2))
+cos_e,10,3,16,1.0,0.30000000000000004,1.6,0.1,0.03,0.16

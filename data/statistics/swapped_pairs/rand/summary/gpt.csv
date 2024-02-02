@@ -1,0 +1,2 @@
+Dataset,OIP Swapped Pairs,T0 Prompt Swapped Pairs,OIP Swapped Pairs (1/dataset_size),T0 Prompt Swapped Pairs (1/dataset_size),OIP Swapped Pairs (1/(dataset_size^2)),T0 Prompt Swapped Pairs (1/(dataset_size^2))
+cos_e,0,0,0.0,0.0,0.0,0.0

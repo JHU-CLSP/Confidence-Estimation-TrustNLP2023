@@ -1,0 +1,2 @@
+Dataset,OIP ECE,T0 Prompt ECE,Paraphrase ECE,T0 Prompt ECE < OIP ECE,Paraphrase ECE < OIP ECE,Paraphrase ECE < T0 Prompt ECE
+cos_e,2.4400360420346257,1.05856421739057,12.591883913675945,True,False,False
